@@ -27,6 +27,7 @@
 		75D70D682D2E953D00F9B8D4 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D70D672D2E953D00F9B8D4 /* MeetingFooterView.swift */; };
 		75D70D6A2D2E97A800F9B8D4 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D70D692D2E97A300F9B8D4 /* AVPlayer+Ding.swift */; };
 		75D70D6D2D2E986F00F9B8D4 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 75D70D6B2D2E986F00F9B8D4 /* ding.wav */; };
+		75EB1F492D30EE36009D3FF3 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75EB1F482D30EE34009D3FF3 /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		75D70D672D2E953D00F9B8D4 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		75D70D692D2E97A300F9B8D4 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		75D70D6B2D2E986F00F9B8D4 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
+		75EB1F482D30EE34009D3FF3 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -164,6 +166,7 @@
 		752B41C52D271B4A001A90C9 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				75EB1F482D30EE34009D3FF3 /* ScrumStore.swift */,
 				7544EE9E2D2FC9F2001D0218 /* History.swift */,
 				75D70D692D2E97A300F9B8D4 /* AVPlayer+Ding.swift */,
 				75D70D652D2E913200F9B8D4 /* ScrumTimer.swift */,
@@ -337,6 +340,7 @@
 				752B41C72D271B53001A90C9 /* Theme.swift in Sources */,
 				75A925E72D27E10500E4B53E /* ScrumsView.swift in Sources */,
 				752B41C12D271B46001A90C9 /* MeetingView.swift in Sources */,
+				75EB1F492D30EE36009D3FF3 /* ScrumStore.swift in Sources */,
 				7544EE972D2F9A81001D0218 /* NewScrumSheet.swift in Sources */,
 				752B41C22D271B46001A90C9 /* ScrumdingerApp.swift in Sources */,
 				75D70D4E2D2D3DA300F9B8D4 /* ThemeView.swift in Sources */,
